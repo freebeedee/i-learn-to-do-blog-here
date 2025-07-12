@@ -1,0 +1,3 @@
+Sitemap: https://freebeedee.github.io/i-learn-to-do-blog-here/sitemap.xml
+User-agent:*
+Disallow:
